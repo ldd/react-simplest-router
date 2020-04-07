@@ -3,6 +3,10 @@
 > Simplest React router using hooks
 
 [![NPM](https://img.shields.io/npm/v/react-simplest-router.svg)](https://www.npmjs.com/package/react-simplest-router)
+[![Build Status](https://travis-ci.com/ldd/react-simplest-router.png?branch=master)](https://travis-ci.com/ldd/react-simplest-router)
+[![Coverage Status](https://coveralls.io/repos/github/ldd/react-simplest-router/badge.svg?branch=master)](https://coveralls.io/github/ldd/react-simplest-router?branch=add-tests)
+[![Dependencies](https://david-dm.org/ldd/react-simplest-router.svg)](https://david-dm.org/ldd/react-simplest-router)
+[![Size](https://badgen.net/bundlephobia/minzip/react-simplest-router)](https://bundlephobia.com/result?p=react-tech-tree@0.5.1)
 
 _Tired of very big routers with a lot of options and documentation?_
 
